@@ -1,0 +1,2 @@
+10:18:04.537 CUSTOM_PATTERN [main] DEBUG com.go2it.logging.Application - Hello from debug.
+19:22:11.404 CUSTOM_PATTERN [main] DEBUG com.go2it.logging.Application - Hello from debug.

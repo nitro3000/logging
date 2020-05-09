@@ -1,0 +1,2 @@
+10:18:04.541 CUSTOM_PATTERN [main] ERROR com.go2it.logging.Application - Hello from error.
+19:22:11.408 CUSTOM_PATTERN [main] ERROR com.go2it.logging.Application - Hello from error.

@@ -1,0 +1,2 @@
+10:18:04.540 CUSTOM_PATTERN [main] INFO  com.go2it.logging.Application - Hello from info.
+19:22:11.407 CUSTOM_PATTERN [main] INFO  com.go2it.logging.Application - Hello from info.
